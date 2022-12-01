@@ -1,0 +1,134 @@
+/* CSS stillerinizi buraya girin */
+
+* {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 750px;
+    margin: auto auto;
+}
+
+
+
+header nav {
+    margin: 20px 10px;
+}
+
+header nav a{
+    background-color: #96bdc6;
+    border-radius: 10px;
+    padding: 3px 15px;
+    height: 30px;
+    box-shadow: 0px 0px 1px 1px rgb(0,0,0);
+}
+
+main {
+    background-image: url("https://picsum.photos/1400/1000");
+    width: 70vw;
+    height: 50vh;
+    margin: auto auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+main button {
+    border-radius: 10px;
+    padding: 1px 30px;
+    box-shadow: 0px 0px 0px 0px rgb(0,0,0);
+}
+
+section {
+    display: flex;
+    align-items: center;
+    margin: 1% auto;
+    width: 900px;
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+    
+}
+
+section div p{
+    padding:0 0;
+    margin: auto auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+footer button{
+    border-radius: 10px;
+    padding: 1px 30px;
+    box-shadow: 0px 0px 0px 0px rgb(0,0,0);
+    width: 15%;
+    margin-bottom: 10px;
+}
+footer nav i{
+    background-color: #96bdc6;
+    border-radius: 10px;
+    padding: 1px 15px;
+    box-shadow: 0px 0px 1px 1px rgb(0,0,0);
+    
+}
+
+@media(max-width:770px){
+    header {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-between;
+        align-items: center;
+        width: auto;
+        margin: auto auto;
+        /* background-color: #81968f; */
+    }
+    header nav {
+        margin: 20px 10px;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    section {
+        display: flex;
+        align-items: center;
+        margin: 1% auto;
+        width: auto;
+        flex-flow: column wrap;
+        justify-content: space-around;
+    
+    }
+
+    footer button{
+        border-radius: 10px;
+        padding: 1px 30px;
+        box-shadow: 0px 0px 0px 0px rgb(0,0,0);
+        width: 20%;
+        margin-bottom: 10px;
+    }
+
+    header nav a{
+        background-color: #96bdc6;
+        border-radius: 10px;
+        padding: 3px 15px;
+        height: 30px;
+        box-shadow: 0px 0px 1px 1px rgb(0,0,0);
+        margin: 3%;
+        width: 75px;
+        text-align: center;
+    }
+}

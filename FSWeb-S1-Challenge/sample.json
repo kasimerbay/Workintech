@@ -1,0 +1,142 @@
+[
+    {
+      "number": 1,
+      "profile": "Instagram",
+      "followers": 539446645,
+      "posts": 7202,
+      "platform": "Instagram"
+    },
+    {
+      "number": 2,
+      "profile": "Cristiano Ronaldo",
+      "followers": 473864939,
+      "posts": 3338,
+      "platform": "Instagram"
+    },
+    {
+      "number": 3,
+      "profile": "Kylie",
+      "followers": 364542529,
+      "posts": 6935,
+      "platform": "Instagram"
+    },
+    {
+      "number": 4,
+      "profile": "Leo Messi",
+      "followers": 355790796,
+      "posts": 890,
+      "platform": "Instagram"
+    },
+    {
+      "number": 5,
+      "profile": "Selena Gomez",
+      "followers": 341579063,
+      "posts": 1828,
+      "platform": "Instagram"
+    },
+    {
+      "number": 1,
+      "profile": "Barack Obama",
+      "followers": 132473746,
+      "posts": 16563,
+      "platform": "Twitter"
+    },
+    {
+      "number": 2,
+      "profile": "Justin Bieber",
+      "followers": 114165664,
+      "posts": 31371,
+      "platform": "Twitter"
+    },
+    {
+      "number": 3,
+      "profile": "KATY PERRY",
+      "followers": 108950737,
+      "posts": 11715,
+      "platform": "Twitter"
+    },
+    {
+      "number": 4,
+      "profile": "Rihanna",
+      "followers": 106989611,
+      "posts": 10632,
+      "platform": "Twitter"
+    },
+    {
+      "number": 5,
+      "profile": "Elon Musk",
+      "followers": 102819963,
+      "posts": 18921,
+      "platform": "Twitter"
+    },
+    {
+      "number": 1,
+      "profile": "Ninja",
+      "followers": 18296006,
+      "posts": "NA",
+      "platform": "Twitch"
+    },
+    {
+      "number": 2,
+      "profile": "auronplay",
+      "followers": 13377575,
+      "posts": "NA",
+      "platform": "Twitch"
+    },
+    {
+      "number": 3,
+      "profile": "Rubius",
+      "followers": 12524137,
+      "posts": "NA",
+      "platform": "Twitch"
+    },
+    {
+      "number": 4,
+      "profile": "Tfue",
+      "followers": 11145556,
+      "posts": "NA",
+      "platform": "Twitch"
+    },
+    {
+      "number": 5,
+      "profile": "shroud",
+      "followers": 10244388,
+      "posts": "NA",
+      "platform": "Twitch"
+    },
+    {
+      "number": 1,
+      "profile": "charli damelio",
+      "followers": 141200000,
+      "posts": 2211,
+      "platform": "TikTok"
+    },
+    {
+      "number": 2,
+      "profile": "Khabane lame",
+      "followers": 139700000,
+      "posts": 1055,
+      "platform": "TikTok"
+    },
+    {
+      "number": 3,
+      "profile": "Bella Poarch",
+      "followers": 89900000,
+      "posts": 470,
+      "platform": "TikTok"
+    },
+    {
+      "number": 4,
+      "profile": "Addison Rae",
+      "followers": 87700000,
+      "posts": 1683,
+      "platform": "TikTok"
+    },
+    {
+      "number": 5,
+      "profile": "Will Smith",
+      "followers": 72200000,
+      "posts": 136,
+      "platform": "TikTok"
+    }
+  ]

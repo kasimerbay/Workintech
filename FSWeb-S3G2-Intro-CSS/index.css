@@ -1,0 +1,164 @@
+* {
+    font-family: "Roboto Mono";
+}
+
+/* 
+
+Header 
+
+*/
+header {
+    margin-top: 20px;
+}
+
+header nav {
+    margin: 0 auto;
+    width: 70vw;
+}
+
+header nav a {
+    color: white;
+    background-color: #5ED3EB;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin: 10px 5%;
+    text-decoration: none;
+}
+
+header nav a:first-child {
+    background-color: #FF764E;
+    margin-left: 0%;
+    margin-right: 17%;
+}
+
+header nav a:last-child {
+    background-color: #FFCD69;
+    margin-right: 0%;
+    margin-left: 17%;
+}
+
+/* 
+
+section 1
+
+*/
+
+section div img {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 100px;
+    margin-right: 150px;
+}
+
+.img-p {
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.container div p{
+    vertical-align: top;
+}
+
+/*
+    Hocaya Sor 
+Sadece yazıların olduğu paragrafı yukarıya alma işlemini aşağıdaki gibi yapamadım!
+*/
+
+/* .container:last-child {
+    padding: 100px;
+} */
+
+
+/*
+
+section 2
+
+*/
+
+.container-p {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #DDB9A3;
+    text-align: center;
+    color: white;
+}
+
+/* 
+
+section 3
+
+*/
+
+.bl {
+    text-align: center;
+    width: 26%;
+    margin: 0 auto;
+}
+
+.bl img {
+    margin: 0 auto;
+    border-radius: 0%;
+    width: 25%;
+    height: 25% ;
+    padding-bottom: 0px;
+}
+
+/* 
+
+Footer
+
+*/
+
+.container-f{
+    width: 100%;
+    
+}
+
+
+
+footer nav {
+    margin: auto auto;
+    width: 100%;
+    background-color: grey;
+    border-width: 100%;
+}
+
+footer nav a {
+    color: white;
+    background-color: #5ED3EB;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin: 10px 5%;
+    text-decoration: none;
+    
+}
+
+footer nav a:first-child {
+    background-color: #FF764E;
+    margin-left: 0%;
+    margin-right: 17%;
+}
+
+footer nav a:last-child {
+    background-color: #FFCD69;
+    margin-right: 0%;
+    margin-left: 17%;
+}
+
+footer div img {
+    object-fit: cover;
+    width: 100%;
+    height: 150px;
+}
+
+footer div nav {
+    background-color: #F9E7DC;
+    text-align: center;
+}
